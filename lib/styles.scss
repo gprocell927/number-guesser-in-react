@@ -5,6 +5,25 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
-h2, form, button {
+h2, form, .displayStuff {
   text-align: center;
+}
+.GuessDisplay{
+  display: block;
+  padding-bottom: 10px;
+}
+.clearButton, .submitButton {
+  display: inline-block;
+}
+
+.inputField{
+  display: block;
+  margin: auto;
+}
+header {
+  margin: auto;
+}
+
+.ResetButton {
+  margin-left: 44.7%;
 }
