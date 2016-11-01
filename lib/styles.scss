@@ -1,5 +1,10 @@
-$primary-text-color: #F00;
+$primary-text-color: #19028C;
 
 body {
-  color: $primary-text-color
+  color: $primary-text-color;
+  font-family: 'Lato', sans-serif;
+}
+
+h2, form, button {
+  text-align: center;
 }
