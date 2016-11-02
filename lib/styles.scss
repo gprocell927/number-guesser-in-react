@@ -5,6 +5,12 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
+button {
+  cursor: pointer;
+}
+.inputField{
+  width: 95px;
+}
 h2, form, .displayStuff {
   text-align: center;
 }
@@ -25,5 +31,5 @@ header {
 }
 
 .ResetButton {
-  margin-left: 44.7%;
+   margin-left: 47%;
 }
